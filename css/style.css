@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(90deg,rgb(24, 23, 23), hsl(240, 93%, 61%));
+    text-align: center;
+}
+.formulario{
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgb(0,0,0,0.568);
+    color: white;
+}
+input{
+    background: #222a3f;
+    margin: auto;
+    font-size: 16px;
+    font-weight: 700!important;
+    color: white;
+}
+.card{
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    box-shadow: 0 0 30px rgb(0,0,0,0.568);
+}
+.bg-warning {
+    background-color: rgb(24, 23, 23)!important;
+    box-shadow: 0 0 30px rgb(0,0,0,0.568)
+}
