@@ -25,3 +25,6 @@ input{
     background-color: rgb(24, 23, 23)!important;
     box-shadow: 0 0 30px rgb(0,0,0,0.568)
 }
+.col-md-4{
+    padding: 10px;
+}
